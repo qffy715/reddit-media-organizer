@@ -1,0 +1,21 @@
+# Secrets
+.env
+*.token
+*.secret
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local application state / downloaded Reddit content
+data/
+downloads/
+_reddit_browser_profile/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
