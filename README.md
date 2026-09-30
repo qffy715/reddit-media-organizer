@@ -127,7 +127,6 @@ data/
 
 This project is designed around authenticated, approved, read-only API access. The repository itself does not grant permission to access or reuse Reddit content. Users are responsible for complying with Reddit's current Developer Terms, Data API Terms, Responsible Builder Policy, applicable content rights, and any other relevant rules.
 
-If your intended use changes — for example, model training, commercial use, redistribution, or broader data collection — obtain any additional approval required before changing how the application is used.
 
 ## License
 
